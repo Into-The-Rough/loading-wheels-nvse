@@ -1,0 +1,11 @@
+Release/
+Debug/
+*.obj
+*.lib
+*.exp
+*.dll
+*.iobj
+*.ipdb
+*.tlog/
+*.user
+*.backup
